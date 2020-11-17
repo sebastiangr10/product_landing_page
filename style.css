@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+    
+     
+  
+  header{background-color:rgb(209, 187, 159) ;
+text-align: center;}
+#img-header{
+    width: 40%;
+    height: 300px;
+  
+}
+li{
+    display: inline-block;
+    
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    ;
+    display: block;
+    padding: 18px 159px;
+  
+    color: white;
+    font-size: 20px;
+}
+a:hover{
+ background-color: red;
+}
+nav{
+    background-color:black;
+    
+    
+}
+body{background-color:rgb(209, 187, 159) ;
+}
+#Nosotros{
+    padding: 10px;
+    position: relative;top: 30px;
+   
+}
+#Nosotros h2{
+    font-family: monospace;
+    font-size: 35px;
+}
+#Nosotros p{
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+    padding: 10px;
+}
+
+#formulario{
+    padding: 10px;
+    position: relative;top: 30px;
+    background-color: red;
+    color: white;
+    font-family: monospace;
+    text-align: center;
+}
+
+form{background-color: white;
+    margin: 90px auto;
+width: 300px;
+height: 280px;
+border-bottom: 4px solid black;
+text-align: center;}
+
+.seccion{
+    background-color: red;
+    color: white;
+    text-align: center;
+    
+    
+}
+
+
+form label{
+    display: block;
+    color: white;
+    background-color:black;
+    padding: 12px 0;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive;
+}
+form input[type="text"],input[type="password"], input[type="email"]{
+    width: 230px;
+    padding: 12px 40px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    border: 1px solid red;
+    font-family: cursive;
+}
+form input[type="submit"]{
+    background-color: red;
+    color: white;
+    width: 80px;
+    height: 30px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+
+#slash{
+    width: 280px;
+    height: 450px;
+}
+.guitarra1{
+    font-family: fantasy;
+    font-size: 22px;
+}
+#van-halen{
+    width: 280px;
+    height: 350px;
+
+
+}
+#gene{
+    width: 280px;
+    height: 350px;
+
+}
+p{
+    text-align: center;
+    font-size: 22px;
+}
+#videos{
+    font-size: 20px;
+    height: 20px;
+    padding: 12px;
+    position: relative;top:20px;
+}
