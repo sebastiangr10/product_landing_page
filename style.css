@@ -149,3 +149,8 @@ form input[type="submit"]{
     background-color: red;
     position: relative;top: 30px;
 }
+footer{
+    position: relative;top:380px;
+    background-color: burlywood;
+    color:black;
+}
